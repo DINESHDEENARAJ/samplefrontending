@@ -1,0 +1,19 @@
+ table{
+
+    border: 2px darkturquoise;
+    border-style: double;
+    line-height: 40px;
+
+}
+
+tbody{
+    color:blue;
+    text-shadow: 3px 2px 5px orange;
+}
+
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+} 
+
+

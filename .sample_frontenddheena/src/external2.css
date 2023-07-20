@@ -1,0 +1,13 @@
+table{
+
+    border: 2px rgb(31, 209, 0);
+    border-style: dashed;
+    line-height: 60px;
+
+}
+
+tbody{
+    color:rgb(255, 0, 111);
+    text-shadow: 3px 2px 5px rgb(255, 51, 0);
+}
+
